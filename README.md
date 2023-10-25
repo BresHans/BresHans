@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BresHans
-- 👀 I’m interested in code, tools for various things (from Apps script for spreadsheets to AE -expressions for animation)
+- 👀 I’m interested in code and tools for various purposes (from Apps script for spreadsheets to AE -expressions for animation)
 - 🌱 I’m currently learning everything I can 
 
 <!---
